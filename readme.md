@@ -1,0 +1,1 @@
+treinando o git no terminal
